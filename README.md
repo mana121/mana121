@@ -21,8 +21,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,latex,linux,vim" />
-    <img src="https://skillicons.dev/icons?i=python,java,matlab,octave,opencv,pycharm,py,anaconda" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,latex,linux,vim,md" />
+    <img src="https://skillicons.dev/icons?i=python,java,matlab,octave,opencv,pycharm,py,pytorch,tensorflow,anaconda" /><br>
 </div>
 
 <br/>
